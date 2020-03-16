@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/11 15:17:21.165.pas,C:\Users\190304\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\190304\Documents\RAD Studio\Projects\Main.pas</Transaction>
+    <Transaction>2020/03/11 15:17:21.165.dfm,C:\Users\190304\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\190304\Documents\RAD Studio\Projects\Main.dfm</Transaction>
+    <Transaction>2020/03/11 15:17:27.925.pas,C:\Users\190304\Documents\RAD Studio\Projects\Main.pas=C:\Users\190304\Desktop\檢查\Main.pas</Transaction>
+    <Transaction>2020/03/11 15:17:27.925.dfm,C:\Users\190304\Documents\RAD Studio\Projects\Main.dfm=C:\Users\190304\Desktop\檢查\Main.dfm</Transaction>
+    <Transaction>2020/03/11 15:22:52.622.dproj,C:\Users\190304\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\190304\Desktop\檢查\Project2.dproj</Transaction>
+    <Transaction>2020/03/13 14:13:49.337.otf,C:\Users\190304\Desktop\新增資料夾\NotoSansTC.otf=</Transaction>
+  </Transactions>
+</BorlandProject>
